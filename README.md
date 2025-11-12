@@ -7,7 +7,7 @@ I'm a passionate developer with hands-on experience in building scalable web app
 ---
 
 ### 💼 Current Role  
-💻 **Software Development Engineer (SDE 1)** at **Fintra Software Solution**, Hyderabad  
+💻 **Software Development Engineer (SDE 1)** at ** Aurionpro Solution**, Hyderabad  
 - Working on **Angular-based web applications** for trade finance and enterprise systems.  
 - Focused on **frontend architecture**, **performance optimization**, and **modular design** to improve deployment efficiency.  
 
