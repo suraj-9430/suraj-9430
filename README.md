@@ -1,17 +1,15 @@
 # 👋 Hi there! I'm Suraj Raj  
 
-🚀 **Full Stack Developer | Angular Developer | Machine Learning Enthusiast**  
+🚀 Full Stack Developer | Node.js | React | Angular | AI Integration
+Passionate developer with 1.5 years of production experience building scalable web applications for the banking and fintech domain. I love crafting clean, optimised, and high-performance backend systems and user-focused frontends.
 
-I'm a passionate developer with hands-on experience in building scalable web applications using **Angular**, **Node.js**, and **MongoDB**. I enjoy creating clean, optimized, and user-focused solutions, and I'm always exploring new technologies like **React** and **Generative AI**.
+### 💼 Current Role
+💻 Software Developer at Aurionpro Solutions, Hyderabad
 
----
-
-### 💼 Current Role  
-💻 **Software Development Engineer (SDE 1)** at ** Aurionpro Solution**, Hyderabad  
-- Working on **Angular-based web applications** for trade finance and enterprise systems.  
-- Focused on **frontend architecture**, **performance optimization**, and **modular design** to improve deployment efficiency.  
-
----
+Building and maintaining RESTful APIs using Node.js & Express.js for a live Trade Finance application
+Resolved a critical production performance issue — reduced API response from 6–7 seconds → 500ms using Redis caching, Oracle indexing & pagination
+Contributing to AI-driven product development — integrating backend APIs with intelligent features using React
+Working in Agile/Scrum environment with cross-functional teams
 
 ### 🧠 Interests  
 - 💡 **Machine Learning** & **Deep Learning** (worked on Brain Tumor Detection with 98% accuracy)  
