@@ -1,53 +1,64 @@
-# 👋 Hi there! I'm Suraj Raj  
+# 👋 Hi, I'm Suraj Raj
 
-🚀 Full Stack Developer | Node.js | React | Angular | AI Integration
-Passionate developer with 1.5 years of production experience building scalable web applications for the banking and fintech domain. I love crafting clean, optimised, and high-performance backend systems and user-focused frontends.
+**Full Stack Developer** · Node.js · Angular · React · AI Integration · Fintech
 
-<img width="1472" height="4898" alt="image" src="https://github.com/user-attachments/assets/decc9e31-4dcc-40ce-b200-de331772080b" />
-
-
-### 💼 Current Role
-💻 Software Developer at Aurionpro Solutions, Hyderabad
-
-Building and maintaining RESTful APIs using Node.js & Express.js for a live Trade Finance application
-Resolved a critical production performance issue — reduced API response from 6–7 seconds → 500ms using Redis caching, Oracle indexing & pagination
-Contributing to AI-driven product development — integrating backend APIs with intelligent features using React
-Working in Agile/Scrum environment with cross-functional teams
-
-### 🧠 Interests  
-- 💡 **Machine Learning** & **Deep Learning** (worked on Brain Tumor Detection with 98% accuracy)  
-- 🌐 **Full Stack Development (MEAN Stack)**  
-- 🧩 **UI/UX Optimization & Scalable Frontend Design**  
-- 📊 **Data Visualization & AI-powered Web Apps**
+📍 Hyderabad, India  |  💼 Aurionpro Solutions  |  🕐 2 years experience  |  🟢 Open to work
 
 ---
 
-### 🌱 Currently Learning  
-- ⚛️ **React.js** and **Next.js** for building dynamic UIs  
-- ☁️ **Cloud Deployment** and **CI/CD Pipelines**  
-- 🤖 Exploring **AI Integration** in modern web development  
+## What I do
+
+Production full-stack developer working on live banking systems at Aurionpro. I've shipped performance-critical backend fixes, AI-integrated features, and a complete enterprise workforce platform from scratch as a side project. I care about clean architecture, measurable performance, and things that actually work in production.
 
 ---
 
-### 🤝 Looking to Collaborate On  
-- Innovative **Full Stack Projects (Angular / Node / React)**  
-- **Open-source AI/ML** projects  
-- **Web performance optimization** and **developer tools**
+## Production highlights
+
+⚡ **6–7s → 500ms API response** — resolved a critical performance bottleneck in a live Trade Finance platform serving major banking clients using Redis caching, Oracle indexing, and pagination. **(93% faster)**
+
+🤖 **AI-driven feature development** — selected for an AI team building Trade Finance 2.0, integrating Agentic AI features into backend APIs using React and Node.js.
+
+🧠 **Brain tumor detection — 98% accuracy** — deep learning model for medical image classification, built for real-world diagnostic utility.
 
 ---
 
-### 📫 How to Reach Me  
-📧 **Email:** [rajsuraj663@gmail.com](mailto:rajsuraj663@gmail.com)  
-🌐 **Portfolio:** [surajraj.netlify.app](https://surajraj.netlify.app)  
-💼 **LinkedIn:** [linkedin.com/in/suraj663](https://www.linkedin.com/in/suraj663/)  
-💻 **GitHub:** [github.com/suraj-9430](https://github.com/suraj-9430)
+## Featured project — TaskFlow Pro
+
+> Full-stack enterprise workforce management platform built solo.
+
+**Modules:** RBAC (Admin / Manager / Employee), task & project management, real-time chat with @mentions, geofence-based attendance, leave & approval workflows, RabbitMQ async notifications, embedded AI assistant (Gemini 2.5 Flash), Android APK via Capacitor.
+
+**Stack:** Angular 20 · Node.js / TypeScript · MongoDB · RabbitMQ · Socket.IO · Google Gemini · Capacitor
 
 ---
 
-### ⚡ Fun Fact  
-I can spend hours debugging a single line of code — and love every second of it! 🧑‍💻  
-Also, I never deploy without a good cup of chai ☕.
+## Tech stack
+
+| Layer | Technologies |
+|---|---|
+| Backend | Node.js · Express · TypeScript · JWT · RabbitMQ · Redis · Socket.IO |
+| Frontend | Angular 20 · React · Next.js · RxJS · Bootstrap · Capacitor |
+| Database | MongoDB · PostgreSQL · Oracle · Mongoose · Redis |
+| AI / ML | Google Gemini · Agentic AI · Deep Learning · TensorFlow / Keras |
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*  
+## Currently learning
+
+- React 19 + Next.js for dynamic, production-grade UIs
+- Cloud deployment (AWS / Render) and CI/CD with GitHub Actions
+- Advanced system design patterns
+- Agentic AI integration in modern web apps
+
+---
+
+## Connect
+
+- 📧 [rajsuraj663@gmail.com](mailto:rajsuraj663@gmail.com)
+- 🌐 [surajraj.netlify.app](https://surajraj.netlify.app)
+- 💼 [linkedin.com/in/suraj663](https://linkedin.com/in/suraj663)
+- 💻 [github.com/suraj-9430](https://github.com/suraj-9430)
+
+---
+
+> *"I don't just build features — I fix what's slow, secure what's exposed, and ship what actually works in production."*
