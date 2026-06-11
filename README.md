@@ -3,6 +3,9 @@
 🚀 Full Stack Developer | Node.js | React | Angular | AI Integration
 Passionate developer with 1.5 years of production experience building scalable web applications for the banking and fintech domain. I love crafting clean, optimised, and high-performance backend systems and user-focused frontends.
 
+<img width="1472" height="4898" alt="image" src="https://github.com/user-attachments/assets/decc9e31-4dcc-40ce-b200-de331772080b" />
+
+
 ### 💼 Current Role
 💻 Software Developer at Aurionpro Solutions, Hyderabad
 
